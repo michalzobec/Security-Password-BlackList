@@ -26,7 +26,7 @@ With the above in mind, I will not (at least for now) translate this project int
 
 ## Pravidla
 
-[Pravidla](PRAVIDLA.md).
+Dokument [Pravidla](PRAVIDLA.md) definuje pravidla jak hesla vytvářet a především, co by hesla neměly obsahovat. Snažil jsem se o relativně podrobný popis, ale šlo mi v tomto případě o pochopení na straně uživatelů, než o podrobný a úplný popis zákazů.
 
 [*Back to top*](#documenttitle "Top of the document")
 
