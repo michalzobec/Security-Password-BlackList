@@ -2,8 +2,6 @@
 
 <a name="documenttitle"></a>
 
-**Verze 2207.1 (2022/07/17)**
-
 Copyright &copy; 2021-2022 Michal Zobec, ZOBEC Consulting. All Rights Reserved.
 
 ## Seznam zakázaných slov
@@ -27,7 +25,7 @@ Následující seznam definuje zakázaná slova, fráze, výrazy, znaky, či def
 1. užití jakýchkoli znaků mimo znaků ASCII, například znaky národní abecedy (české znaky, ruské znaky, apod.).
 1. nepoužívejte místo písmen číslice, vypadající podobně jako písmena. tato metoda ochrany je známá a několik let překonaná (je použita ve slovníkových útocích).
 
-[*Back to top*](#documenttitle "Top of the document")
+[*Zpět nahoru*](#documenttitle "Zpět na začátek dokumentu")
 
 ## Doporučení
 
@@ -46,6 +44,8 @@ Následující seznam shrnuje doporučení pro tvorbu kvalitních hesel:
    * špatně: tYgrb52agRdrAk76
    * dobře: tYgr bag52RdrAk76+
 
+[*Zpět nahoru*](#documenttitle "Zpět na začátek dokumentu")
+
 ### Příklad
 
 Je zakázáno používat slova/fráze v obecně známé podobě. Pokud dotyčné slovo rozbijete, jeho užití je dovoleno. Je zakázáno použít (slovníkové) slovo “traktor”, ale je dovoleno použít slovo “tr.aktOr“.
@@ -60,7 +60,7 @@ Používejte hesla jako "věty". Ve větě alespoň jedno slovo "rozbijte". Prol
 
 Poznámka: Tvorba hesel, včetně příkladů je probíráno podrobně na školení s uživateli.
 
-[*Back to top*](#documenttitle "Top of the document")
+[*Zpět nahoru*](#documenttitle "Zpět na začátek dokumentu")
 
 ## Documentation (all documents)
 
@@ -69,4 +69,4 @@ Poznámka: Tvorba hesel, včetně příkladů je probíráno podrobně na škole
 * [Historie změn](HISTORY.md).
 * [Licence](LICENSE.).
 
-[*Back to top*](#documenttitle "Top of the document")
+[*Zpět nahoru*](#documenttitle "Zpět na začátek dokumentu")
